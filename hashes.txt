@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shadow in My Rearview
+
+This log tracks the cryptographic history and versioning for the song **Shadow in My Rearview** (shadow-in-my-rearview).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T01:50:37.042168 | `v1` | `f33e4032652be20b31f61f8297d868089bdd75a22ca031eca88e82f80167d67a` | `c141d49378ff79d269426b901d506fd18b8a19aa416aee49e186b887ed7ecc6a` | `2026-05-19_shadow-in-my-rearview-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

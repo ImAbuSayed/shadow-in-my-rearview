@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadow-in-my-rearview/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Shadow in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-in-my-rearview/) |
+| **Get License** | [Commercial Licensing for Shadow in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-in-my-rearview/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f33e4032652be20b31f61f8297d868089bdd75a22ca031eca88e82f80167d67a` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
