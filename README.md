@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadow-in-my-rearview/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shadow in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-in-my-rearview/) |
+| **Get License** | [License this song: Shadow in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadow-in-my-rearview/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sheeshe de pichhe disda mainu, rearview shadow
+> Kach de sheeshe chon tainu takda main, far away you go
+> Dil mera karda hai faryadaan, missing your glow
+> Hanere de vich labhda main tainu, I wanna know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
